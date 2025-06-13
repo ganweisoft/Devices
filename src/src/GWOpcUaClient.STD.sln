@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25F953D1-C678-4B5E-BF8C-F5D7D283EA4A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GWModbusStandard.STD", "GWModbusStandard.STD\GWModbusStandard.STD.csproj", "{6E64A577-652B-4DC9-A4C8-E7D62458C72C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GWOpcUAStandard.STD", "GWOpcUAStandard.STD\GWOpcUAStandard.STD.csproj", "{F534A238-DD0C-49EE-990A-0015DC7312F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Develop|Any CPU = Develop|Any CPU
+		Develop|x86 = Develop|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Develop|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Develop|Any CPU.Build.0 = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Develop|x86.ActiveCfg = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Develop|x86.Build.0 = Debug|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E64A577-652B-4DC9-A4C8-E7D62458C72C}.Release|x86.Build.0 = Release|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Debug|x86.Build.0 = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Develop|Any CPU.ActiveCfg = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Develop|Any CPU.Build.0 = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Develop|x86.ActiveCfg = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Develop|x86.Build.0 = Debug|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Release|x86.ActiveCfg = Release|Any CPU
+		{F534A238-DD0C-49EE-990A-0015DC7312F5}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2A1F41-CAA1-45DC-8243-93DAD1610927}
+	EndGlobalSection
+EndGlobal

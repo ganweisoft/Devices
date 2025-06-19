@@ -16,7 +16,6 @@ Devices 原生支持 Modbus 与 OPC UA（Open Platform Communications Unified Ar
 |   |-- Helper                    # Modbus协议辅助工具类
 |   |-- Model                     # Modbus数据模型定义
 |   |-- Service                   # Modbus通信服务实现
-
 |-- GWOpcUAStandard.STD           # OPC UA协议标准实现模块
     |-- Helper                    # OPC UA协议辅助工具类
     |-- Model                     # OPC UA信息模型定义

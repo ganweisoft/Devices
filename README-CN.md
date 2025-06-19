@@ -16,13 +16,13 @@ src
 |   |-- Core                     # 核心业务逻辑/基础设施层
 |   |-- Helper                   # 工具类/通用辅助函数
 |   |-- Model                    # Modbus协议数据模型/DTO对象
-|   `-- Service                  # Modbus协议服务层实现
+|   |-- Service                  # Modbus协议服务层实现
 |-- GWOpcUAStandard.STD          # OPC UA协议标准实现
 |   |-- Helper                   # OPC UA专用工具类
 |   |-- Model                    # OPC UA地址空间模型/数据结构
 |   |-- Service                  # OPC UA协议服务层实现
-|   `-- lib                      # 第三方OPC UA SDK/依赖库
-`-- logo.jpg                     # logo
+|   |-- lib                      # 第三方OPC UA SDK/依赖库
+|-- logo.jpg                     # logo
 ```
 
 ### License

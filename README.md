@@ -10,6 +10,22 @@ English | [简体中文](README-CN.md)
 
 Devices natively support Modbus and OPC UA (Open Platform Communications Unified Architecture), two of the most widely used communication protocols in the field of industrial automation, providing efficient and reliable data acquisition and device interaction capabilities.
 
+# Source Code Structure
+```bash
+`-- src
+    |-- GWModbusStandard.STD
+    |   |-- Core
+    |   |-- Helper
+    |   |-- Model
+    |   `-- Service
+    |-- GWOpcUAStandard.STD
+    |   |-- Helper
+    |   |-- Model
+    |   |-- Service
+    |   `-- lib
+    `-- logo.jpg
+```
+
 ### License  
 Devices is licensed under the very permissive MIT License. For details, see [License](https://github.com/ganweisoft/Devices/blob/main/LICENSE).
 

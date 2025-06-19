@@ -12,18 +12,18 @@ Devices natively support Modbus and OPC UA (Open Platform Communications Unified
 
 # Source Code Structure
 ```bash
-`-- src
-    |-- GWModbusStandard.STD
-    |   |-- Core
-    |   |-- Helper
-    |   |-- Model
-    |   `-- Service
-    |-- GWOpcUAStandard.STD
-    |   |-- Helper
-    |   |-- Model
-    |   |-- Service
-    |   `-- lib
-    `-- logo.jpg
+src
+|-- GWModbusStandard.STD         # Modbus protocol standard implementation
+|   |-- Core                     # Core business logic/infrastructure
+|   |-- Helper                   # Utility classes/common helpers
+|   |-- Model                    # Data models/DTOs for Modbus protocol
+|   `-- Service                  # Modbus service layer implementation
+|-- GWOpcUAStandard.STD          # OPC UA protocol standard implementation
+|   |-- Helper                   # OPC UA specific utilities
+|   |-- Model                    # OPC UA address space models/data structures
+|   |-- Service                  # OPC UA service layer implementation
+|   `-- lib                      # Third-party OPC UA SDKs/dependencies
+`-- logo.jpg                     # Project logo/branding asset
 ```
 
 ### License  

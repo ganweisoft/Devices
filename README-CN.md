@@ -9,6 +9,21 @@
 简体中文 | [English](README.md)
 
 Devices 原生支持 Modbus 与 OPC UA（Open Platform Communications Unified Architecture） 两种工业自动化领域主流通信协议，提供高效、可靠的数据采集与设备交互能力。
+# 源代码结构说明
+```bash
+src
+|-- GWModbusStandard.STD         # Modbus协议标准实现
+|   |-- Core                     # 核心业务逻辑/基础设施层
+|   |-- Helper                   # 工具类/通用辅助函数
+|   |-- Model                    # Modbus协议数据模型/DTO对象
+|   `-- Service                  # Modbus协议服务层实现
+|-- GWOpcUAStandard.STD          # OPC UA协议标准实现
+|   |-- Helper                   # OPC UA专用工具类
+|   |-- Model                    # OPC UA地址空间模型/数据结构
+|   |-- Service                  # OPC UA协议服务层实现
+|   `-- lib                      # 第三方OPC UA SDK/依赖库
+`-- logo.jpg                     # logo
+```
 
 ### License
 

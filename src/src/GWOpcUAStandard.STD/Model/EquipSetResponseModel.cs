@@ -1,4 +1,5 @@
-﻿namespace GWOpcUAStandard.STD
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace GWOpcUAStandard.STD
 {
     public class EquipSetResponseModel
     {

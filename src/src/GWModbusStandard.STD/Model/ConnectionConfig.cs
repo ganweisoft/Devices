@@ -1,4 +1,5 @@
-﻿using IoTClient.Enums;
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+using IoTClient.Enums;
 using System.IO.Ports;
 using System.Net;
 

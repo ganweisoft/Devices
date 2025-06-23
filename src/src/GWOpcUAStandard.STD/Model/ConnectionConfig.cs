@@ -1,4 +1,5 @@
-﻿using GWOpcUAStandard.STD.Model;
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+using GWOpcUAStandard.STD.Model;
 
 public class ConnectionConfig
 {

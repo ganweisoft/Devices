@@ -1,4 +1,5 @@
-﻿namespace GWModbusStandard.STD;
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace GWModbusStandard.STD;
 
 public enum ModbusType
 {

@@ -1,4 +1,5 @@
-﻿namespace IoTClient.Models
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace IoTClient.Models
 {
     public class ModbusOutput
     {

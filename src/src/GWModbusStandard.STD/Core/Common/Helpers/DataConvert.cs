@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+using System.Text;
 
 namespace IoTClient.Common.Helpers
 {

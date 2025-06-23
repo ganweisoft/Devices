@@ -1,4 +1,5 @@
-﻿namespace IoTClient.Common.Helpers
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace IoTClient.Common.Helpers
 {
     /// <summary>
     /// LRC验证

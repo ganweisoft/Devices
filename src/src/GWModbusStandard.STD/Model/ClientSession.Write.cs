@@ -1,4 +1,5 @@
-﻿using IoTClient;
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+using IoTClient;
 using IoTClient.Enums;
 using IoTClient.Models;
 

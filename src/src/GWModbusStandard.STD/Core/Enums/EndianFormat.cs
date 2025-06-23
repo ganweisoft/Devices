@@ -1,4 +1,5 @@
-﻿namespace IoTClient.Enums
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace IoTClient.Enums
 {
     /// <summary>
     /// 字节格式

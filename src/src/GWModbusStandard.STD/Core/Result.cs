@@ -1,4 +1,5 @@
-﻿namespace IoTClient
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace IoTClient
 {
     /// <summary>
     /// 请求结果

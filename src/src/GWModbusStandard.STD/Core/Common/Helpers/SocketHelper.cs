@@ -1,4 +1,5 @@
-﻿using System.Net.Sockets;
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+using System.Net.Sockets;
 
 namespace IoTClient.Common.Helpers
 {

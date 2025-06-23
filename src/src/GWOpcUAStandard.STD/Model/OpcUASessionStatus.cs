@@ -1,4 +1,5 @@
-﻿namespace GWOpcUAStandard.STD.Model
+﻿//  Copyright (c) 2025 Shenzhen Ganwei Software Technology Co., Ltd
+namespace GWOpcUAStandard.STD.Model
 {
     public class OpcUASessionStatus
     {

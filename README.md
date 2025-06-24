@@ -10,20 +10,6 @@ English | [简体中文](README-CN.md)
 
 Devices natively support Modbus and OPC UA (Open Platform Communications Unified Architecture), two of the most widely used communication protocols in the field of industrial automation, providing efficient and reliable data acquisition and device interaction capabilities.
 
-# Source Code Structure
-```bash
-|-- GWModbusStandard.STD          # Modbus Protocol Standard Implementation Module
-|   |-- Core                      # Modbus Core Protocol Implementation
-|   |-- Helper                    # Modbus Protocol Auxiliary Utilities
-|   |-- Model                     # Modbus Data Model Definitions
-|   |-- Service                   # Modbus Communication Service Implementation
-|-- GWOpcUAStandard.STD           # OPC UA Protocol Standard Implementation Module
-    |-- Helper                    # OPC UA Protocol Auxiliary Utilities
-    |-- Model                     # OPC UA Information Model Definitions
-    |-- Service                   # OPC UA Server/Client Implementation
-    |-- lib                       # OPC UA Protocol Stack Dependencies
-```
-
 ### License  
 Devices is licensed under the very permissive MIT License. For details, see [License](https://github.com/ganweisoft/Devices/blob/main/LICENSE).
 

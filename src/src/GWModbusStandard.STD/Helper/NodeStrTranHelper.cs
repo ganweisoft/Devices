@@ -1,4 +1,4 @@
-﻿//  Copyright (c) 2021 Shenzhen Ganwei Software Technology Co., Ltd
+﻿//  Copyright (c) 2021-2025 Shenzhen Ganwei Software Technology Co., Ltd
 using IoTClient.Enums;
 using IoTClient.Models;
 using System.Collections.Concurrent;

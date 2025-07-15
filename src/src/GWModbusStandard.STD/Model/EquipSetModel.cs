@@ -1,4 +1,4 @@
-﻿//  Copyright (c) 2021 Shenzhen Ganwei Software Technology Co., Ltd
+﻿//  Copyright (c) 2021-2025 Shenzhen Ganwei Software Technology Co., Ltd
 using IoTClient.Models;
 
 namespace GWModbusStandard.STD;

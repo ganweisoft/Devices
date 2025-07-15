@@ -8,7 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="OpenGWDataCenter" Version="9.0.0.1" />
+		<PackageReference Include="OpenGWDataCenter" Version="9.0.0.2" />
 	</ItemGroup>
 
 	<ItemGroup>

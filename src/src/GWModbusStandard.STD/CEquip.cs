@@ -4,6 +4,7 @@ using GWDataCenter.Database;
 using IoTClient.Enums;
 using IoTClient.Models;
 using Newtonsoft.Json;
+using OpenGWDataCenter.Model;
 using System.IO.Ports;
 
 namespace GWModbusStandard.STD;

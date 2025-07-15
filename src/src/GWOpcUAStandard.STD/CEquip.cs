@@ -4,6 +4,7 @@ using GWDataCenter.Database;
 using GWOpcUAStandard.STD.Model;
 using Newtonsoft.Json;
 using Opc.Ua;
+using OpenGWDataCenter.Model;
 
 namespace GWOpcUAStandard.STD
 {

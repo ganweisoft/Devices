@@ -1,3 +1,4 @@
+// Copyright (c) 2004-2025 Shenzhen Ganwei Software Technology Co., Ltd
 using GWDataCenter;
 using GWDataCenter.Database;
 using OpenGWDataCenter.Model;
@@ -6,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace AlarmCenter.GWDataSimu.NET
+namespace GWDataSimu.STD
 {
     /// <summary>
     /// 设备模拟器类，用于模拟设备数据通信
